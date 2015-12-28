@@ -1,0 +1,7 @@
+******UTILIZAÇÃO DO SIMULADOR LOGG2.EXE PARA MFD ELGIN*******
+
+Para utilizar o Simulador(LOGG2.exe) é necessário carregá-lo antes de executar as funções através do DEMOLOG2.
+se você executar o DEMOLOG2, fechá-lo e em seguida abrí-lo o Simulador NÃO IRÁ FUNCIONAR, é necessário 
+sempre carregar o Simulador ANTES de executar o DEMOLOG2.exe.
+
+Para maiores informações de como utilizar o DEMOLOG e suas funcionalidades leia o arquivo "Manual Demolog2.doc".

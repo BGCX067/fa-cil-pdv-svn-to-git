@@ -1,0 +1,3 @@
+C:\Ciclos\PDV\brConfig.exe - 60dc6be699e092ad970b32a08766afd1
+C:\Ciclos\PDV\brPDV.exe - 0026998ab6b0c2a6e82ae7876008560b
+C:\Ciclos\PDV\brServidor.exe - 522c797d613630ffb2a59e7547a92a78
